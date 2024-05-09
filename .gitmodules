@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "ggmugs"]
 	path = ggmugs
-	url = https://github.com/cran/ggmugs
+	url = https://github.com/broccolito/ggmugs
 [submodule "gptr"]
 	path = gptr
-	url = https://github.com/cran/gptr
+	url = https://github.com/broccolito/gptr
